@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: b52d4d1f9183cf64a977302c5a1fcf00
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: DrillerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 380
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 380
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 377
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 380
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 377
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 378
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 377
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 377
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 377
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 379
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 377
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 377
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 377
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 377
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_14
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 377
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 377
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 377
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 377
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 377
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 325
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 325
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 325
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 325
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 325
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 325
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 325
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 325
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 325
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 325
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_32
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 325
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_33
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 325
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_34
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 325
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_35
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 325
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_36
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 325
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_37
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 325
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 281
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_03
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 280
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_04
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 276
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_05
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 271
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_06
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 269
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_07
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 279
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drilling_08
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 281
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 273
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_47
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 273
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_48
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 273
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 273
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_50
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 273
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_51
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 273
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_52
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 273
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_53
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 273
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_54
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 273
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_55
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 273
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_56
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 273
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 213
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 213
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 213
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 213
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 213
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 213
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 213
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 213
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_65
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 213
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 213
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_67
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 213
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_68
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 213
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_69
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 213
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_70
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 213
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_71
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 213
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 213
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_73
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 213
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_74
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 213
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_75
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 213
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 161
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_80
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 161
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_81
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 161
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_82
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 161
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_83
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 161
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 161
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_85
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 161
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_86
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 161
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 161
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_88
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 161
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_89
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 162
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_90
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 161
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_91
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 161
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_92
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 162
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_93
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 161
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_94
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 161
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_96
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 111
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 109
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 109
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 110
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 109
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_102
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 109
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_103
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 109
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_104
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 111
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_105
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 109
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_106
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 109
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_107
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 109
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_108
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 110
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_109
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 109
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_110
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 109
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 57
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_113
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_114
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 59
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 57
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_120
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 57
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_121
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 58
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_123
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 57
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 57
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_125
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 57
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_126
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 57
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_127
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 57
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_128
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 57
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_129
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 58
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_130
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 57
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_131
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 57
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_132
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 57
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_133
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 57
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DrillerSheet_134
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 57
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
