@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\DestroyerScript.cs" />
      <Compile Include="Assets\Scripts\DrillerController.cs" />
+     <Compile Include="Assets\Scripts\DrillerScript.cs" />
+     <Compile Include="Assets\Scripts\PlanetScript.cs" />
+     <Compile Include="Assets\Scripts\SpawnScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
